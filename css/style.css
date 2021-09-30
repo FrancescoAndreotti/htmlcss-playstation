@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+/* header */
+
+.top-nav{
+    height: 25px;
+}
+
+.my-btn-nav{
+    background-color: #363636;
+    color: white;
+    border-radius: 35px;
+    padding: 5px 8px;
+}
+
+/* main */
+
+.my-hero-section{
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center top;
+    min-height: 500px;
+}
+
+.my-h2-banner{
+    color: white;
+    font-size: 2.5rem;
+}
+
+.my-p-banner{
+    color: white;
+}
+
+.my-banner{
+    padding-top: 250px;
+}
+
+.my-banner-btn{
+    background-color: #cd3d0f;
+    color: white;
+    padding: 3px 7px;
+    border-radius: 15px;
+}
