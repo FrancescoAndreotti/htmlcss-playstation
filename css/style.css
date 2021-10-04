@@ -68,6 +68,61 @@ body{
     min-height: 500px;
 }
 
+.my-blue-border{
+    border-bottom: 2px solid #147cd1;
+}
+
+.nuove-uscite{
+    background-color: #1f1f1f;
+}
+
+.nuove-uscite-card{
+    border-radius: 20px;
+}
+
+.ps-plus-bg{
+    background-color: #bebcbb;
+}
+
+.btn-ps-plus{
+    background-color: #d9dadc;
+    color: #2d64e6;
+    border-radius: 20px;
+    max-width: 300px;
+}
+
+
+.ps-now-bg{
+    background-color: #161c3b;
+}
+
+.btn-ps-now{
+    background-color: white;
+    color: #161c3b;
+    border-radius: 20px;
+}
+
+
+/* Footer */
+
+footer{
+    background-color: #00439c;
+}
+
+.globe-footer{
+    max-width: 20px;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
 /* section */
 
 .section-small{
@@ -85,6 +140,8 @@ body{
     padding-bottom: 70px;
 }
 
+
+
 /* Section Inner Elements */
 
 .section-super {
@@ -99,8 +156,9 @@ body{
 }
 
 .section-title-small {
-  margin-bottom: 30px;
-  font-size: 2.3rem;
+  margin-bottom: 10px;
+  font-size: 2rem;
+  color: white;
 }
 
 .section-subtitle {
